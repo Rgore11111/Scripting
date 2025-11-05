@@ -8,3 +8,7 @@ echo "This is my first commit in DevOps"
 echo "Adding one more line to test git stash"
 echo "I am from batch 30 learing azure devpos"
 echo "Where Are YOu"
+echo "I am Happy"
+echo "Where Are you"
+echo "when you are"
+
