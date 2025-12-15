@@ -1,0 +1,20 @@
+echo "We are trying this practical from linux EC2"
+echo "I am from Young minds"
+echo "We are from batch-27" 
+echo "I am learning Git/Github"
+echo "I have added new code"
+echo "I am from batch-30 and learning DevOps"
+echo "This is my first commit in DevOps"
+echo "Adding one more line to test git stash"
+echo "I am from batch 30 learing azure devpos"
+echo "Where Are YOu"
+echo "I am Happy"
+echo "Where Are you"
+echo "when you are"
+echo "I created"
+echo "Branch"
+echo "add line"
+echo " lhow are you"
+
+
+
