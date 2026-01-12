@@ -1,0 +1,5 @@
+echo "i have aadded two.sh file"
+echo "This is second file in scripting folder"
+echo "Adding one more line to two.sh file"
+echo "This line is added to test git stash in two.sh"
+echo "This is the last line in two.sh file"
